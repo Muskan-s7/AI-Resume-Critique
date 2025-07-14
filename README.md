@@ -31,12 +31,15 @@ Perfect for **students, job seekers, and professionals** looking to improve thei
 ---
 
 ## 📁 Folder Structure
+
+```
 Resume_Critique/
 ├── .env.example # Template for environment variables (API key placeholder)
 ├── app.py # Main Streamlit application
 ├── .gitignore # Files and folders to ignore in version control
 ├── pyproject.toml # Project dependencies
 ├── README.md # You're reading it!
+```
 
 ---
 
@@ -121,11 +124,13 @@ streamlit run app.py
 
 ---
 
-🙋‍♀️ About the Developer
-👤 Shaik Muskan
+## 🙋‍♀️ About the Developer
+
+**👤 Shaik Muskan**
 A passionate developer exploring the intersection of **AI** and **web development**. This project was built as part of a learning journey in **natural language processing** and **Streamlit apps** for career enhancement tools.
 
+---
 
-💬 Final Notes
+## 💬 Final Notes
 Whether you're a **student**, **professional**, or just curious about how AI can boost your resume, **AI Resume Critique** offers a fast and simple way to get personalized feedback.
 
