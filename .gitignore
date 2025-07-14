@@ -1,0 +1,12 @@
+# Don't upload environment variables
+.env
+
+# Don't upload virtual environment
+.venv/
+
+# Don't upload cache
+__pycache__/
+*.pyc
+
+# Ignore UV lock file
+uv.lock
